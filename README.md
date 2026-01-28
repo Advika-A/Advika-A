@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Advika!
-- 👀 I’m interested in programming, ethical hacking, software development and also reading, swimming, music and socializing!
-- 🌱 I’m currently learning programming in python and c, and i recently got started with cyber security!
-- 😄 Pronouns: she/her
 
 <!---
 Advika-A/Advika-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
