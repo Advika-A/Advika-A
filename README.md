@@ -1,23 +1,49 @@
 
-# Hi 👋, I'm Advika
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=38&pause=1000&color=9683EC&background=1F1F1F00&width=1000&height=80&lines=Hello+ꕤ)](https://git.io/typing-svg)
 
-### Computer Science undergraduate focused on cyber security
+## // ABOUT_ME
 
-- 🔭 I'm currently working on **An Explainable AI-Based Intrusion Detection and Prevention System **
+```bash
+> Student: Advika
+> Domain: Computer Science with Specialization in Cyber Security
+> Focus: Detection Engineering & Security Research
+> Status: Building
+```
 
-- 🌱 I'm currently learning **Computer Networks, Operating Systems, and how intrusion detection systems actually work in practice.**
+I enjoy studying how attacks behave, how defenders observe them, and how security systems can explain *why* something is malicious instead of simply flagging it.
 
-- 👯 I'm looking to collaborate on **Beginner-to-intermediate cybersecurity projects, especially anything involving network simulation, basic IDS implementation, or attack modeling.**
+My current work revolves around:
 
-- 🤝 I'm looking for help with **Understanding how to take academic security concepts and turn them into practical, well-structured projects.**
+- Network Traffic Analysis
+- Intrusion Detection Systems
+- Attack Simulation Labs
+- Security Observability
+- Explainable Defensive AI
+- Cyber Range Development
 
-- 💬 Ask me about **Data Structures, networking basics, packet analysis, or how I’m building my cybersecurity portfolio as a student.**
+---
 
-- 📫 How to reach me **advika06.ainapure@gmail.com**
+## // CURRENT_MISSION
 
-- ⚡ Fun fact **My quiet motto: The horrors persist, but so do I.**
+🔭 Developing  
+**An Explainable AI-Based Intrusion Detection and Prevention System**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Advika-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Advika-A" height="30" width="40" /></a>
-</p>
+🌱 Exploring  
+**Computer Networks, Operating Systems, Detection Logic, and Traffic Analysis**
+
+🧪 Interested In  
+**Building controlled environments to simulate, analyze, and detect cyberattacks**
+
+🤝 Open To Collaborating On  
+**Security research, defensive tooling, IDS experimentation, and cyber lab infrastructure**
+
+💬 Topics I Like Discussing  
+**Packet analysis, networking fundamentals, system behavior, security monitoring, and cybersecurity project building**
+
+📫 Contact  
+**advika06.ainapure@gmail.com**
+
+---
+
+> "Security is not just about blocking attacks.  
+> It's about understanding them."
