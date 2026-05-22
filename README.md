@@ -40,3 +40,27 @@ My current work revolves around:
 
 <img src="./Assets/contact.svg" width="20" height="15"/> Contact  
 **advika06.ainapure@gmail.com**
+
+
+
+## // FEATURED_PROJECT
+
+### 🛡️ AI-Based-IDS-and-IPS — Explainable Hybrid Intrusion Detection & Prevention System
+
+AI-Based-IDS-and-IPS is a hybrid Intrusion Detection System (IDS) with adaptive Intrusion Prevention (IPS) capabilities designed to detect both known attacks and anomalous network behavior in real time.
+
+The system combines supervised and unsupervised machine learning models with confidence-aware decision logic, explainable threat analysis, automatic IP escalation, and defensive response mechanisms.
+
+#### Highlights
+
+- Hybrid detection using Random Forest + Isolation Forest
+- Real-time anomaly and attack classification
+- Confidence-aware model agreement logic
+- Automatic suspicious IP escalation & blocking
+- Structured explainability with grouped feature reasoning
+- Interactive real-time dashboard
+- Rate limiting and API key authentication
+- Modular Flask backend architecture
+
+**Tech Stack:**  
+`Python` `Flask` `scikit-learn` `Wireshark` `HTML` `CSS` `JavaScript`
